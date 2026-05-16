@@ -132,7 +132,7 @@ Random Forest Classifier (after hyperparameter tuning)
 ![Confusion Matrix](charts/confusion_matrix_comparison.png)
 
 ### ROC Curve Comparison
-![ROC Curve](charts/model_comparison.png)
+![ROC Curve](model_comparison.png)
 
 ### Feature Importance
 ![Feature Importance](charts/feature_importance.png)
@@ -193,11 +193,11 @@ churn-analysis/
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── requirements.txt
 ├── README.md
+├── model_comparison.png
 │
 └── charts/
     ├── heatmap.png
     ├── confusion_matrix_comparison.png
-    ├── model_comparison.png
     ├── feature_importance.png
     ├── churn_by_contract.png
     ├── tenure_distribution.png
